@@ -1,2 +1,1 @@
-# ML
-Machine Learning Projects - Primarily Python
+ml projects
