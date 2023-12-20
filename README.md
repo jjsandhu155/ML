@@ -1,1 +1,1 @@
-sklearn, bayes, mnist, sklearn, neural nets, etc.
+bayes, mnist, sklearn, neural nets, etc.
